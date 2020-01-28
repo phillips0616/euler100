@@ -13,5 +13,4 @@ def multiples_sum(num):
             print(x)
     print(sum)
 
-
 multiples_sum(1000)
